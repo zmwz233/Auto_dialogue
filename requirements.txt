@@ -1,0 +1,12 @@
+keyboard==0.13.5
+numpy==1.24.4
+opencv_contrib_python==4.5.4.60
+opencv_python==4.5.4.60
+Pillow==9.5.0
+Pillow==10.1.0
+ppocr_onnx==0.0.3.9
+PyAutoGUI==0.9.53
+pyuac==0.0.3
+pywin32==302
+PyYAML==6.0
+PyYAML==6.0.1
